@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorserify",
+        "uuid": 5510715,
+        "checksum": "r55wdh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
